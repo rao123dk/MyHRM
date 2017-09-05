@@ -1,2 +1,2 @@
 # MyHRM
-An open source HRM for all industry.
+An open source HRM for all industries.
